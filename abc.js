@@ -1,0 +1,3 @@
+funtion(){
+	var a = 'abc';
+}
